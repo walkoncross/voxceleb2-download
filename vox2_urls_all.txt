@@ -1,4 +1,4 @@
-[urls]
+[urls/timestamps]
 http://www.robots.ox.ac.uk/\~vgg/data/vox2_dev_txt.zip
 http://www.robots.ox.ac.uk/\~vgg/data/vox2_test_txt.zip
 
