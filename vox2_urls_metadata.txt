@@ -1,0 +1,7 @@
+http://www.robots.ox.ac.uk/\~vgg/data/voxceleb/meta/vox2_meta.csv
+http://www.robots.ox.ac.uk/\~vgg/data/voxceleb/meta/veri_test.txt
+http://www.robots.ox.ac.uk/\~vgg/data/voxceleb/meta/veri_test2.txt
+http://www.robots.ox.ac.uk/\~vgg/data/voxceleb/meta/list_test_hard.txt
+http://www.robots.ox.ac.uk/\~vgg/data/voxceleb/meta/list_test_hard2.txt
+http://www.robots.ox.ac.uk/\~vgg/data/voxceleb/meta/list_test_all.txt
+http://www.robots.ox.ac.uk/\~vgg/data/voxceleb/meta/list_test_all2.txt

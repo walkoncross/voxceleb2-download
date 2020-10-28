@@ -1,0 +1,10 @@
+http://www.robots.ox.ac.uk/\~vgg/data/voxceleb/vox1a/vox2_dev_mp4_partaa
+http://www.robots.ox.ac.uk/\~vgg/data/voxceleb/vox1a/vox2_dev_mp4_partab
+http://www.robots.ox.ac.uk/\~vgg/data/voxceleb/vox1a/vox2_dev_mp4_partac
+http://www.robots.ox.ac.uk/\~vgg/data/voxceleb/vox1a/vox2_dev_mp4_partad
+http://www.robots.ox.ac.uk/\~vgg/data/voxceleb/vox1a/vox2_dev_mp4_partae
+http://www.robots.ox.ac.uk/\~vgg/data/voxceleb/vox1a/vox2_dev_mp4_partaf
+http://www.robots.ox.ac.uk/\~vgg/data/voxceleb/vox1a/vox2_dev_mp4_partag
+http://www.robots.ox.ac.uk/\~vgg/data/voxceleb/vox1a/vox2_dev_mp4_partah
+http://www.robots.ox.ac.uk/\~vgg/data/voxceleb/vox1a/vox2_dev_mp4_partai
+http://www.robots.ox.ac.uk/\~vgg/data/voxceleb/vox1a/vox2_test_mp4.zip
